@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1581808324
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Admin\\github expense trcker\\expenses_tracker\\android\\app\\.cxx\\RelWithDebInfo\\242l424u\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1620117366
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\Admin\\github expense trcker\\expenses_tracker\\android\\app\\.cxx\\RelWithDebInfo\\242l424u\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1832030462
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\Admin\\github expense trcker\\expenses_tracker\\android\\app\\.cxx\\RelWithDebInfo\\242l424u\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1843158084
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -252029344
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Admin\\github expense trcker\\expenses_tracker\\android\\app\\.cxx\\RelWithDebInfo\\242l424u\\x86\u0027",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1276743738
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Admin\\github expense trcker\\expenses_tracker\\android\\app\\.cxx\\RelWithDebInfo\\242l424u\\x86\u0027",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1042899538
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Admin\\\\Downloads\\\\flutter_windows_3.27.0-stable\\\\flutter\\\\packages\\\\flutter_tools\\\\gradle\\\\src\\\\main\\\\groovy\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.3.11579264\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.3.11579264\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.3.11579264\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Admin\\\\github expense trcker\\\\expenses_tracker\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\242l424u\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Admin\\\\github expense trcker\\\\expenses_tracker\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\242l424u\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BC:\\\\Users\\\\Admin\\\\github expense trcker\\\\expenses_tracker\\\\android\\\\app\\\\.cxx\\\\RelWithDebInfo\\\\242l424u\\\\x86\" ^\n  -GNinja ^\n  -Wno-dev ^\n  --no-warn-unused-cli\n",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1517297591
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Admin\\\\Downloads\\\\flutter_windows_3.27.0-stable\\\\flutter\\\\packages\\\\flutter_tools\\\\gradle\\\\src\\\\main\\\\groovy\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.3.11579264\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.3.11579264\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.3.11579264\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Admin\\\\github expense trcker\\\\expenses_tracker\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\242l424u\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Admin\\\\github expense trcker\\\\expenses_tracker\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\242l424u\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BC:\\\\Users\\\\Admin\\\\github expense trcker\\\\expenses_tracker\\\\android\\\\app\\\\.cxx\\\\RelWithDebInfo\\\\242l424u\\\\x86\" ^\n  -GNinja ^\n  -Wno-dev ^\n  --no-warn-unused-cli\n",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1490035880
+  },
+  {
+    "level_": 0,
+    "message_": "C:\\Users\\Admin\\github expense trcker\\expenses_tracker\\android\\app\\.cxx\\RelWithDebInfo\\242l424u\\x86\\compile_commands.json.bin existed but not C:\\Users\\Admin\\github expense trcker\\expenses_tracker\\android\\app\\.cxx\\RelWithDebInfo\\242l424u\\x86\\compile_commands.json",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1084893939
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -564375595
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\Admin\\github expense trcker\\expenses_tracker\\android\\app\\.cxx\\RelWithDebInfo\\242l424u\\x86\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1106238700
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Admin\\Downloads\\flutter_windows_3.27.0-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1373697489
+  }
+]

@@ -1,0 +1,2 @@
+C:/Users/Admin/github expense trcker/expenses_tracker/android/app/.cxx/RelWithDebInfo/242l424u/x86/CMakeFiles/edit_cache.dir
+C:/Users/Admin/github expense trcker/expenses_tracker/android/app/.cxx/RelWithDebInfo/242l424u/x86/CMakeFiles/rebuild_cache.dir

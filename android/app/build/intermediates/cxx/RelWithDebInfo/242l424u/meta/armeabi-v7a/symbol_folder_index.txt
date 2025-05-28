@@ -1,0 +1,1 @@
+C:\Users\Admin\github expense trcker\expenses_tracker\android\app\build\intermediates\cxx\RelWithDebInfo\242l424u\obj\armeabi-v7a
